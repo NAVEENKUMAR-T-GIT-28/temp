@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755248451029",
+    "project_id": "empowermenthub-40bcd",
+    "storage_bucket": "empowermenthub-40bcd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755248451029:android:92bff7eefd2125fdfb015c",
+        "android_client_info": {
+          "package_name": "com.example.empowermenthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCWX-rhXGAV0FKSW-eaFggl1o4uXbLVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
